@@ -20,8 +20,4 @@ public class Population {
     private String ethnicComposition;
 
 
-
-
-
-
 }
